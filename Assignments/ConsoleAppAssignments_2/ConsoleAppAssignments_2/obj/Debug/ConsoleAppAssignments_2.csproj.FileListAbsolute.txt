@@ -1,0 +1,8 @@
+D:\simplilearn\day-3\Assignments\ConsoleAppAssignments_2\ConsoleAppAssignments_2\bin\Debug\ConsoleAppAssignments_2.exe.config
+D:\simplilearn\day-3\Assignments\ConsoleAppAssignments_2\ConsoleAppAssignments_2\bin\Debug\ConsoleAppAssignments_2.exe
+D:\simplilearn\day-3\Assignments\ConsoleAppAssignments_2\ConsoleAppAssignments_2\bin\Debug\ConsoleAppAssignments_2.pdb
+D:\simplilearn\day-3\Assignments\ConsoleAppAssignments_2\ConsoleAppAssignments_2\obj\Debug\ConsoleAppAssignments_2.csproj.AssemblyReference.cache
+D:\simplilearn\day-3\Assignments\ConsoleAppAssignments_2\ConsoleAppAssignments_2\obj\Debug\ConsoleAppAssignments_2.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-3\Assignments\ConsoleAppAssignments_2\ConsoleAppAssignments_2\obj\Debug\ConsoleAppAssignments_2.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-3\Assignments\ConsoleAppAssignments_2\ConsoleAppAssignments_2\obj\Debug\ConsoleAppAssignments_2.exe
+D:\simplilearn\day-3\Assignments\ConsoleAppAssignments_2\ConsoleAppAssignments_2\obj\Debug\ConsoleAppAssignments_2.pdb
